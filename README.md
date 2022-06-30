@@ -1,6 +1,5 @@
 - 👋 Hola a todos! Mi nombre es Ana Verduguez y este es mi GitHub.
-- 👀 Soy estudiante de la Licentuara en informatica y actualmente me capacito en areas de software y testing.
-- ✨Me gusta todo lo relacionado con la tecnologia,la informatica y los videojuegos.
+- ✨ Soy estudiante de la Licentuara en informatica y actualmente me capacito en areas de software y testing.
 
 
 Te invito a que mires mis codigos realizados a lo largo de mi carrera y experiencia.
@@ -14,4 +13,5 @@ Te invito a que mires mis codigos realizados a lo largo de mi carrera y experien
  　 · ✵
    
 Muchas gracias por leerme! :)
+
 
